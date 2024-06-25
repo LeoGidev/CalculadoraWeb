@@ -1,5 +1,8 @@
-<h1>Calculadora</h1>
+# Calculadora
+## Esta es una práctica de javascript realizando una versión de una calculadora con almanque.
+### Esto esta realizado con canvas.
+![imagen ilustrativa](example.png)
 
-<p>La siguiente es una práctica de javascript en la que se realiza una simple calculadora al mejor estilo windows</p>
 
+Puedes verla en mi Portafolio:[ir](https://leogidev.free.nf/Practicas/calculadora/)
 
